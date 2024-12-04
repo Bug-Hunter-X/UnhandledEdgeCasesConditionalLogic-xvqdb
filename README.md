@@ -1,0 +1,2 @@
+# Unhandled Edge Case in Conditional Logic
+This repository demonstrates a common error in MATLAB code: neglecting to handle edge cases in conditional statements. The function `myFunction.m` incorrectly handles the case where the input `x` is equal to 10.  The improved solution in `bugSolution.m` adds explicit handling for this edge case.
